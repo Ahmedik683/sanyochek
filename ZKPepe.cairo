@@ -7,7 +7,8 @@ mod HelloStarknet {
 // hard to imagine my life without Starknet
     #[event] // big hope on STRK
     fn Hello(from: ContractAddress, value: felt252) {}
-// trying to do my best
+// trying to do my best 
+// drop season is beggining
 // cairo is a pretty smart language
     #[external] // i am crypto enthusiast  // felling excited about drop 
     fn Say_Hello(message: felt252) {
