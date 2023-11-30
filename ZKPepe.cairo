@@ -7,7 +7,7 @@ mod HelloStarknet {
     #[event]
     fn Hello(from: ContractAddress, value: felt252) {}
 // trying to do my best
-
+// cairo is pretty smart language
     #[external]
     fn Say_Hello(message: felt252) {
         let caller = get_caller_address();
