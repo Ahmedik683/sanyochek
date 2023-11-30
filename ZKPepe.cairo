@@ -6,7 +6,7 @@ mod HelloStarknet {
 // I ll never sell STRK
     #[event]
     fn Hello(from: ContractAddress, value: felt252) {}
-
+// trying to do my best
 
     #[external]
     fn Say_Hello(message: felt252) {
