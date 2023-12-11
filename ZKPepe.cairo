@@ -11,7 +11,7 @@ mod HelloStarknet {
 // drop season is beggining // bull run
 // cairo is a pretty smart language // i am tired of this life
     #[external] // i am crypto enthusiast  // felling excited about drop 
-// vlada is my love
+// vlada is my love // airdrop soon
     fn Say_Hello(message: felt252) {
         let caller = get_caller_address();
         Hello(caller, message);
