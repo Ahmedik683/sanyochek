@@ -2,7 +2,7 @@
 mod HelloStarknet {
     use starknet::get_caller_address;
     use starknet::ContractAddress;
-// Starknet is the best project
+// Starknet is the best project // anatomia
 // I ll never sell STRK // Pepe
 // hard to imagine my life without Starknet // big work
     #[event] // big hope on STRK
