@@ -4,7 +4,7 @@ mod HelloStarknet {
     use starknet::ContractAddress;
 // Starknet is the best project
 // I ll never sell STRK // Pepe
-// hard to imagine my life without Starknet
+// hard to imagine my life without Starknet // big work
     #[event] // big hope on STRK
     fn Hello(from: ContractAddress, value: felt252) {}
 // trying to do my best 
